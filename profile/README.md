@@ -1,3 +1,3 @@
-**Hey there!**
+*We design websites, build smart tools, and craft visuals — all with code, curiosity, and a bit of style*
 
-*We're Caustics Studio,*
+\- [caustics-studio.com](https://causticsics-studio.com)
